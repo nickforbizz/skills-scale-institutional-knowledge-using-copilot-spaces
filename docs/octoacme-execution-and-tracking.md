@@ -4,9 +4,9 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Daily standups (15 min) — facilitated by Scrum Master / ProjM; focus on progress, blockers, dependencies
+- Weekly delivery sync — ProjM leads; show progress, updates, and flagged risks
+- Demo/Review at the end of each sprint or milestone (Stakeholders invited)
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
@@ -24,14 +24,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
-- Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Track velocity and burndown (Data Analyst and/or ProjM maintains)
+- Monitor success metrics identified in the Project One-pager (Data Analyst owns dashboards)
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 1: Team-level triage in daily standup (Scrum Master / ProjM facilitates)
+- Level 2: ProjM escalates to PdM and dependent teams
+- Level 3: Sponsor/Stakeholder-level escalation for business-impacting issues
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

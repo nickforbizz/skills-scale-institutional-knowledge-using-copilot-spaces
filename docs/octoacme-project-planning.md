@@ -36,7 +36,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held (ProjM facilitates; Scrum Master co-facilitates if applicable)
+- [ ] RACI / Ownership Matrix confirmed for all key activities (see [`octoacme-raci-matrix-template.md`](octoacme-raci-matrix-template.md))
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented

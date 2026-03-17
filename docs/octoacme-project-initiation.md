@@ -8,8 +8,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Goals
 - Confirm business need and measurable outcome
-- Identify stakeholders & champions
+- Identify Stakeholders & champions
 - Define success criteria and initial timeline
+- Assign roles using the RACI / Ownership Matrix (see [`octoacme-raci-matrix-template.md`](octoacme-raci-matrix-template.md))
 - Decide go/no-go for planning
 
 ## Minimum Deliverables
@@ -30,8 +31,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Proposed team / roles:
 
 ## Initiation Checklist
-- [ ] One-pager completed and reviewed by Product Lead
+- [ ] One-pager completed and reviewed by PdM (Product Manager)
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] RACI / Ownership Matrix drafted (see [`octoacme-raci-matrix-template.md`](octoacme-raci-matrix-template.md))
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
